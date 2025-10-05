@@ -2,11 +2,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=true&text=Welcome%20%F0%9F%91%8B&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=84&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
 ###
 
-<div align="center" style="clear: both; margin-top: -10px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedroarruda07/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
