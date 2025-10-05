@@ -1,11 +1,9 @@
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=true&text=Welcome%20%F0%9F%91%8B&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=84&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -34,13 +32,13 @@
 
 ###
 
-<p align="left">Hi! I'm Pedro, an AI and R&D Engineer from Lisbon, Portugal. <br><br>
+<p align="left">Hi! I'm Pedro, an AI and R&D Engineer from Lisbon, Portugal. <br>
 
-- 🔭 <b>Current Work:</b> I’m currently working as an AI Engineer at NOS Inovação, where I build diverse Generative AI solutions while actively engaging in research to explore the limits of AI and its intersection with emerging technologies.<br><br>
+- 🔭 <b>Current Work:</b> I’m currently working as an AI Engineer at NOS Inovação, where I build diverse Generative AI solutions while actively engaging in research to explore the limits of AI and its intersection with emerging technologies.<br>
 
-- 📚 <b>Education:</b> I completed my Integrated Master's degree in Computer Science and Engineering in September 2025 at the <a href="https://www.fct.unl.pt/en">NOVA School of Science and Technology</a>, culminating in a thesis I’m truly proud of - More about it <a href="#masters-thesis">below</a>.<br><br>
+- 📚 <b>Education:</b> I completed my Integrated Master's degree in Computer Science and Engineering in September 2025 at the <a href="https://www.fct.unl.pt/en">NOVA School of Science and Technology</a>, culminating in a thesis I’m truly proud of - More about it <a href="#masters-thesis">below</a>.<br>
 
-- 🧠 <b>Passions:</b> I'm very passionate about the AI and HCI fields, enjoying the challenge of creating innovative and impactful solutions. I love staying up to date with the latest trends in AI and experimenting with new technologies.<br><br>
+- 🧠 <b>Passions:</b> I'm very passionate about the AI and HCI fields, enjoying the challenge of creating innovative and impactful solutions. I love staying up to date with the latest trends in AI and experimenting with new technologies.<br>
 
 - ⚡ <b>Free Time:</b> In my free time, I also really enjoy gaming 🎮 and traveling 🌍 to help me recharge my batteries.
 
