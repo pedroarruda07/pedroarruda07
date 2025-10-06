@@ -30,9 +30,9 @@
 
 <p align="left">Hi! I'm Pedro, an AI and R&D Engineer from Lisbon, Portugal. <br>
 
-- 🔭 <b>Current Work:</b> I’m currently working as an AI Engineer at NOS Inovação, where I build diverse Generative AI solutions while actively engaging in research to explore the limits of AI and its intersection with emerging technologies.<br>
+- 🔭 <b>Current Work:</b> I'm currently working as an AI Engineer at NOS Inovação, where I build diverse Generative AI solutions while actively engaging in research to explore the limits of AI and its intersection with emerging technologies.<br>
 
-- 📚 <b>Education:</b> I completed my Integrated Master's degree in Computer Science and Engineering in September 2025 at the <a href="https://www.fct.unl.pt/en">NOVA School of Science and Technology</a>, culminating in a thesis I’m truly proud of - More about it <a href="#masters-thesis">below</a>.<br>
+- 📚 <b>Education:</b> I completed my Integrated Master's degree in Computer Science and Engineering in September 2025 at <a href="https://www.fct.unl.pt/en">NOVA School of Science and Technology</a>, culminating in a thesis I'm truly proud of - More about it <a href="#masters-thesis">below</a>.<br>
 
 - 🧠 <b>Passions:</b> I'm very passionate about the AI and HCI fields, enjoying the challenge of creating innovative and impactful solutions. I love staying up to date with the latest trends in AI and experimenting with new technologies.<br>
 
@@ -41,6 +41,7 @@
 </p>
 
 ###
+
 <br>
 <h2 align="left">🛠 Language and tools</h2>
 
