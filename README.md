@@ -30,7 +30,7 @@
 
 <p align="left">Hi! I'm Pedro, an AI and R&D Engineer from Lisbon, Portugal. <br>
 
-- 🔭 <b>Current Work:</b> I'm currently working as an AI Engineer at NOS Inovação, where I build diverse Generative AI solutions while actively engaging in research to explore the limits of AI and its intersection with emerging technologies.<br>
+- 🔭 <b>Current Work:</b> I'm currently working as an AI Engineer at NOS Inovação, where I build diverse Generative AI solutions while actively engaging in research to explore the limits of AI and its intersection with other emerging technologies.<br>
 
 - 📚 <b>Education:</b> I completed my Integrated Master's degree in Computer Science and Engineering in September 2025 at <a href="https://www.fct.unl.pt/en">NOVA School of Science and Technology</a>, culminating in a thesis I'm truly proud of - More about it <a href="#masters-thesis">below</a>.<br>
 
@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="10" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.69.0/files/light/n8n-color.png" height="40" alt="n8n logo" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="10" />
