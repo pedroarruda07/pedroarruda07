@@ -92,15 +92,11 @@
 
 <br><br>
 <h2 align="left">📝 Publications</h2>
- 
-###
 
-<p align="left">(Coming Soon 😎) </p>
+### Master's Thesis - http://hdl.handle.net/10362/201478
 
-### Master's Thesis 
-
-<p align="left"> My thesis explored the use of an open-source VLM combined with AR glasses for sign language translation. Beyond the technical challenge, what excited me most was immersing myself in the broader AI/ML research landscape, from fine-tuning techniques to diving deep into architectural design and pretraining a custom module that significantly improved model performance.<br><br>
-(Paper - Coming Soon) </p>
+<p align="left"> My thesis explored the use of an open-source VLM combined with AR glasses for sign language translation. Beyond the technical challenge, what excited me most was immersing myself in the broader AI/ML research landscape, from fine-tuning techniques to diving deep into architectural design and pretraining a custom module that significantly improved model performance <br><br>
+(More Coming Soon) </p>
 
 ###
 
